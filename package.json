@@ -1,0 +1,19 @@
+{
+  "name": "unicorder-challenge-thor",
+  "version": "1.0.0",
+  "description": "Repo for the Unicorder Challenge: Thor and Mjolnir",
+  "main": "thor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iproduct/unicorder-challenge-thor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iproduct/unicorder-challenge-thor/issues"
+  },
+  "homepage": "https://github.com/iproduct/unicorder-challenge-thor#readme"
+}
